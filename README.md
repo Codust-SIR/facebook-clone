@@ -1,4 +1,5 @@
-#Facebook Clone using HTML, CSS and JS from team @SIR
+# Facebook Clone using HTML, CSS and JS from team @SIR
+
 []: # (c) 2020 SIR
 []: # License: MIT
 []: # Version: 1.0.0

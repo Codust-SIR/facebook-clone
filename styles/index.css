@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main_body {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+/* Top navbar */
+.top_navbar {
+  position: sticky;
+  top: 0;
+  background-color: yellow;
+  display: flex;
+  flex: 1;
+  height: 10vh;
+  z-index: 1;
+}
+
+/* Left side */
+.left_side {
+  flex: 0.3;
+  background-color: darkslateblue;
+  height: 100vh;
+}
+/* Center */
+.center {
+  flex: 0.4;
+  background-color: dodgerblue;
+  height: 100vh;
+}
+
+/* Right side */
+.right_side {
+  flex: 0.3;
+  background-color: darkslateblue;
+  height: 100vh;
+}

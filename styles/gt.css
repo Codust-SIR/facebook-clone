@@ -86,4 +86,6 @@
 .all{
     background-color: white;
 }
- 
+.main_body{
+    display: flex;
+}

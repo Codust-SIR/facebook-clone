@@ -85,7 +85,16 @@
 }
 .all{
     background-color: white;
+    
 }
 .main_body{
     display: flex;
+}
+.profile{
+    display: flex;
+}
+.profile img{
+    height: 90px;
+    width: 90px;   
+    border-radius: 50%;
 }

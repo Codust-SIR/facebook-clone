@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: aliceblue;
 }
 
 .main_body {
@@ -12,11 +13,13 @@ body {
 .top_navbar {
   position: sticky;
   top: 0;
-  background-color: yellow;
+  background-color: white;
   display: flex;
   flex: 1;
-  height: 10vh;
+  height: 7vh;
   z-index: 1;
+  align-items: center;
+  text-align: center;
 }
 
 /* Left side */

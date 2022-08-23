@@ -8,6 +8,13 @@
 }
 .container1{
     display: flex;
+    
+}
+.container1 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
 }
 .container1 img{
     height: 50px;
@@ -21,12 +28,24 @@
     width: 50px;
     border-radius: 15%;
 }
+.container2 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
 .container3{
     display: flex;
 }
 .container3 img{
     height: 50px;
     width: 50px;
+}
+.container3 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
 }
 .container4{
     display: flex;
@@ -36,6 +55,12 @@
     width: 60px;
 
 }
+.container4 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
 .container5{
     display: flex;
 }
@@ -43,6 +68,12 @@
     height: 50px;
     width: 50px;
     border-radius: 14px;
+}
+.container5 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
 }
 .container6{
     display: flex;
@@ -52,12 +83,24 @@
     width: 50px;
     border-radius: 50%;
 }
+.container6 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
 .container7{
     display: flex;
 }
 .container7 img{
     height: 50px;
     width: 50px;
+}
+.container7 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
 }
 .container8{
     display: flex;
@@ -66,6 +109,12 @@
     height: 50px;
     width: 50px;
 }
+.container8 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
 .container9{
     display: flex;
 }
@@ -73,12 +122,24 @@
     height: 50px;
     width: 50px;
 }
+.container9 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
+}
 .container10{
     display: flex;
 }
 .container10 img{
     height: 50px;
     width: 50px;
+}
+.container10 h3:hover{
+    color: black;
+    background-color:cornflowerblue;
+    border-radius: 50px;
+    cursor:pointer;
 }
 .head{
   display: flex;

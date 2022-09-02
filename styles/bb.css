@@ -7,7 +7,7 @@
 .container{
     display: flex;
     flex-direction: row;
-    background-color: rgb(167, 168, 168);
+    background-color: white;
     border-radius: 5px;
     padding: 25px 20px;
 }

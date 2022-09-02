@@ -31,7 +31,7 @@ body {
 /* Center */
 .center {
   flex: 0.4;
-  background-color: dodgerblue;
+  background-color: white;
   height: 100vh;
 }
 
